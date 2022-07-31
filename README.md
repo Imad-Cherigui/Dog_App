@@ -11,7 +11,7 @@ The process is as follows:
 
     - If it's a human, which dog breed it resembles the most
     
-#Blogpost:
+# Blogpost:
 
 https://medium.com/@imad.s.cherigui/data-scientist-nanodegree-capstone-project-705dfe3a4b35
 
