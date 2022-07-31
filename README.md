@@ -22,38 +22,73 @@ Thechnical details are available in this blog post:
 
 # File Tree
 │   dog_app.ipynb
+
 │   extract_bottleneck_features.py
+
 │   README.md
+
 │   requirements.txt
+
 │
+
 ├───bottleneck_features
+
 |
+
 ├───data
+
 ├───Test_Pictures
+
 │       Ana_de_Armas.jpg
+
 │       Border-Collie.jpg
+
 │       mix-golden-retrievers.jpg
+
 │       Schnauzer.jpg
+
 │       Papillon_dog.jpg
+
 │       Batman.jpg
+
 │       
+
 ├───haarcascades
+
 │       haarcascade_frontalface_alt.xml
+
 │
+
 ├───images
+
 │       American_water_spaniel_00648.jpg
+
 │       Brittany_02625.jpg
+
 │       Curly-coated_retriever_03896.jpg
+
 │       Labrador_retriever_06449.jpg
+
 │       Labrador_retriever_06455.jpg
+
 │       Labrador_retriever_06457.jpg
+
 │       sample_cnn.png
+
 │       sample_dog_output.png
+
 │       sample_human_2.png
+
 │       sample_human_output.png
+
 │       Welsh_springer_spaniel_08203.jpg
+
 │
+
 ├───saved_models
+
 |       weights.best.from_scratch.hdf5
+
 |       weights.best.InceptionV3.hdf5
+
 |       weights.best.VGG16.hdf5
