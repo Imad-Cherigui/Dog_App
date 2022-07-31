@@ -11,7 +11,6 @@ The process is as follows:
 
     - If it's a human, which dog breed it resembles the most
 
-Thechnical details are available in this blog post: 
 
 # Instructions:
 1. Start by installing the libraries required : run pip install -r requirements.txt
