@@ -4,11 +4,12 @@
 # Introduction:
 This project aims at using a convolutional neural network (CNN) to predict dog breeds.
 
-The process is to first determine if an image is a dog or a human:
+The process is as follows:
+- First determine if an image is a dog or a human:
 
-If it's dog, determine which breed.
+    - If it's dog, determine which breed.
 
-If it's a human, which dog breed it resembles the most
+    - If it's a human, which dog breed it resembles the most
 
 Thechnical details are available in this blog post: 
 
