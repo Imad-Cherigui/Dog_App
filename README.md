@@ -65,4 +65,5 @@ https://medium.com/@imad.s.cherigui/data-scientist-nanodegree-capstone-project-7
 - /saved_models
     - weights.best.from_scratch.hdf5
     - weights.best.InceptionV3.hdf5
+    - weights.best.InceptionV3_swap.hdf5
     - weights.best.VGG16.hdf5
